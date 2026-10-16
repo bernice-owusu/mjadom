@@ -1,0 +1,6 @@
+{
+  "name": "Agrezen - Agriculture & Organic Farms",
+  "description": "Replication of Agrezen modern agriculture and organic farm WordPress theme by Zozothemes, featuring sustainable crop management, agro-tech innovations, and fresh farm produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
